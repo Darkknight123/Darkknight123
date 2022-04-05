@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Darkknight123
-- 👀 I’m interested in Mobile Development and CyberSecurity
-- 🌱 I’m currently learning Kotlin Development and React.js
-- 💞️ I’m looking to collaborate on any project and work
+- 👋 Hi, I’m @Darkknight123 or by my real name Philip Kerry
+- 👀 I’m interested in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
+cryptocurrency
+- 🌱 I’m currently learning Kotlin Development for native Android Development and React.js for Frontend Development
+- 💞️ I’m looking to collaborate on any project and work that will come my way
 - 📫 How to reach me through kerrycodes.co.ke you'll find all the links to my socials
 
 <!---
