@@ -4,7 +4,8 @@ cryptocurrency
 - 🌱 I’m currently learning Kotlin Development for native Android Development and React.js for Frontend Development
 - 💞️ I’m looking to collaborate on any project and work that will come my way
 - 📫 How to reach me through kerrycodes.co.ke you'll find all the links to my socials
-- ![Darkknight123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkknight123&count_private=true)
+- ![Darkknight123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkknight123&count_private=true&show_icons=true&theme=radical)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight123](https://github.com/Darkknight123/github-readme-stats)
 
 <!---
 Darkknight123/Darkknight123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
