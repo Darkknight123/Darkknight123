@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username=Darkknight123&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-Darkknight123&color=green)
 - 👋 Hi, I’m @Darkknight123 or by my real name Philip Kerry
 - I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java
 - 👀 I’m interested in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
