@@ -9,7 +9,7 @@ cryptocurrency
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkknight123)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkknight123&theme=dark)](https://git.io/streak-stats)
 
 <!---
 Darkknight123/Darkknight123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
