@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Darkknight123&color=green) [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea/project/33fe06e7-d072-4d4d-8b02-2f2da48826eb.svg)](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea/project/33fe06e7-d072-4d4d-8b02-2f2da48826eb)
+![](https://komarev.com/ghpvc/?username=your-github-Darkknight123&color=green) [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea.svg)](https://wakatime.com/@8fbf2448-5042-4526-9327-679b554522ea)
 - 👋 Hi, I’m @Darkknight123 or by my real name Philip Kerry
 - I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java
 - 👀 I’m interested in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
