@@ -12,7 +12,7 @@ cryptocurrency
    
   
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkknight123&theme=dark)](https://git.io/streak-stats)
 
 <!---
 Darkknight123/Darkknight123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
