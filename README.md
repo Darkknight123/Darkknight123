@@ -10,7 +10,7 @@ cryptocurrency
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkknight123&theme=dark)](https://git.io/streak-stats)
+  
    
 
 
