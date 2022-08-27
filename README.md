@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Darkknight123&color=green) [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea.svg)](https://wakatime.com/@8fbf2448-5042-4526-9327-679b554522ea)
 - 👋 Hi, I’m @Darkknight123 or by my real name Philip Kerry
 - I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java
-- 👀 I’m interested in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
+- 👀 My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
 cryptocurrency
 - 🌱 I’m learning Kotlin Development for native Android Development and React.js for Frontend Development
 - 💞️ I’m looking to collaborate on any project and work that will come my way
