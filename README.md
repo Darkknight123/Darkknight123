@@ -4,7 +4,6 @@
 - 👀 My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
 cryptocurrency
 - 🌱 I’m learning Kotlin Development for native Android Development and React.js for Frontend Development
-- 💞️ I’m looking to collaborate on any project and work that will come my way
 - 📫 Reach me through https://kerrycodes.co.ke. You'll find all the links to my socials
 - ![Darkknight123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkknight123&count_private=true&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    
