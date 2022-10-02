@@ -2,7 +2,7 @@
 - 👋 Hey , I’m @Darkknight123 or known by my real name as Philip Kerry
 - I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java
 - 👀 My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and
-cryptocurrency
+cryptocurrency space
 - 🌱 I’m learning Kotlin Development for native Android Development and React.js for Frontend Development
 - 📫Checkout my portfolio on https://kerrycodes.co.ke. And you'll be able to find all the links to my socials
 - ![Darkknight123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkknight123&count_private=true&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
