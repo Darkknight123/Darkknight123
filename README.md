@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea.svg)](https://wakatime.com/@8fbf2448-5042-4526-9327-679b554522ea)
 # 💫 About Me:
-wave Hey , I’m @Darkknight123 or known by my real name as Philip Kerry<br>I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java<br>eyes My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and cryptocurrency space<br>seedling I’m learning Kotlin Development for native Android Development, Flutter for Cross-platform Developmenr and React.js for Frontend Development<br>mailboxCheckout my portfolio on https://kerrycodes.co.ke. And you'll be able to find all the links to my social
+Hey , I’m @Darkknight123 or known by my real name as Philip Kerry<br>I work in frontEnd and Mobile Development using React js and Android/Kotlin/Java<br> My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and cryptocurrency space<br> I’m learning Kotlin Development for native Android Development, Flutter for Cross-platform Developmenr and React.js for Frontend Development<br>Checkout my portfolio on https://kerrycodes.co.ke. And you'll be able to find all the links to my social
 
 
 ## 🌐 Socials:
