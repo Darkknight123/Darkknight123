@@ -20,9 +20,6 @@ CodeRank stats : https://profile.codersrank.io/user/darkknight123/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkknight123&icon=2&color=1)](https://visitcount.itsvg.in)
 
