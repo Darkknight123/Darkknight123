@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea.svg)](https://wakatime.com/@8fbf2448-5042-4526-9327-679b554522ea)
 # 💫 About Me:
-Hey , I’m @Darkknight123 or known by my real name as Philip Kerry<br>I work in  Mobile Development using Android/Kotlin/Java<br> My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and cryptocurrency space<br> I’m learning Kotlin Development for native Android Development, Flutter for Cross-platform Developmenr and React.js for Frontend Development<br>Checkout my portfolio on https://kerrycodes.netlify.app And you'll be able to find all the links to my social also have a look at my blog here https://darkknight842.hashnode.dev/
+Hey , I’m Philip Kerry<br>I work in  Mobile Development using Android/Kotlin/Java/iOS/Swift<br> My interest are in Mobile Development, CyberSecurity and Artificial Intelligence with some curiosity in Blockchain and cryptocurrency space<br> I’m learning Kotlin Development for native Android Development, React Native for Cross-platform Developmenr and React.js for Frontend Development<br>Checkout my portfolio on https://kerrycodes.netlify.app And you'll be able to find all the links to my social also have a look at my blog here https://darkknight842.hashnode.dev/
 CodeRank stats : https://profile.codersrank.io/user/darkknight123/
 
 
