@@ -2,6 +2,8 @@
 # 💫 About Me:
 Hey , I’m Philip Kerry<br>I specialize in  Mobile Development using Android/Kotlin/Java/iOS/Swift/KMM<br>
 
+<a href="https://app.daily.dev/philipkerry"><img src="https://api.daily.dev/devcards/v2/43YFoufM3FS3pRI1Yfqzf.png?r=p4p&type=default" width="356" alt="PhilipKerry's Dev Card"/></a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Darkknight123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkknight123&theme=dark&hide_border=false)<br/>
