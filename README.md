@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/8fbf2448-5042-4526-9327-679b554522ea.svg)](https://wakatime.com/@8fbf2448-5042-4526-9327-679b554522ea)
 # 💫 About Me:
-Hey , I’m Philip Kerry<br>I specialize in  Mobile Development using Android/Kotlin/Java/iOS/Swift/KMM<br>
+Holla <br>I specialize in  Mobile Development using Android/Kotlin/Java/iOS/Swift/KMM<br>
 
 <a href="https://app.daily.dev/philipkerry"><img src="https://api.daily.dev/devcards/v2/43YFoufM3FS3pRI1Yfqzf.png?r=p4p&type=default" width="356" alt="PhilipKerry's Dev Card"/></a>
 
